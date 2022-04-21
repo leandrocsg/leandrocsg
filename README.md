@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Sou graduado em Engenharia Elétrica, tenho 7 anos de experiência na área de manutenção elétrica no MetrôRio. Tenho buscado desenvolver habilidades em Programação com o intuito de trabalhar como desenvolvedor.
 <!--
 **leandrocsg/leandrocsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
