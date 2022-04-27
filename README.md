@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Leandro !
-Sou graduado em Engenharia Elétrica, tenho 7 anos de experiência na área de manutenção elétrica no MetrôRio. Tenho buscado desenvolver habilidades em Programação com o intuito de trabalhar como desenvolvedor.
+Sou graduado em Engenharia Elétrica, tenho 7 anos de experiência na área de manutenção elétrica no MetrôRio. Tenho buscado desenvolver habilidades em programação com o intuito de trabalhar como desenvolvedor.
 
 
 - 🌱 Estudando Java
-- 📫 Contate-me no email: leandro.lcsg@gmail.com
 - 😄 Pronouns: ele/dele 
 
 ##
@@ -31,6 +30,6 @@ Sou graduado em Engenharia Elétrica, tenho 7 anos de experiência na área de m
   <a href = "mailto:leandro.lcsg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandrolcsg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leandrocsg/leandrocsg/blob/output/github-contribution-grid-snake.svg)
  
 </div>
