@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leandro !
 
-Atualmente, sou técnico no MetroRio onde sou responsável pela inspeção preventiva/corretiva e avaliação de qualidade do motor de tração (que faz o metrô andar). Também estou empolgado em estar estagiando no BNE, enquanto persigo a transição de carreira na área de tecnologia. Minha jornada tem sido uma emocionante busca por conhecimento e experiência, e estou animado para compartilhar meu progresso e projetos aqui no GitHub. Sinta-se à vontade para explorar meu perfil e acompanhar minha evolução enquanto embarco nessa jornada empolgante de crescimento profissional e pessoal.
+Atualmente, sou técnico no MetroRio onde sou responsável pela inspeção preventiva/corretiva e avaliação de qualidade do motor de tração (que faz o metrô andar). Minha jornada tem sido uma emocionante busca por conhecimento e experiência, e estou animado para compartilhar meu progresso e projetos aqui no GitHub. Sinta-se à vontade para explorar meu perfil e acompanhar minha evolução enquanto embarco nessa jornada empolgante de crescimento profissional e pessoal.
 
 - 🌱 Estou dedicado a aprimorar minhas habilidades em C#, .NET, SQL Server, Azure, e estou profundamente envolvido com conceitos de DDD e princípios SOLID. 
 - 😄 Pronouns: ele/dele 
